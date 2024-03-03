@@ -1,4 +1,4 @@
-# python## python小脚本
+## python小脚本
 > 借助bilibili和github，学习和编写一些python代码（甚至称不上项目🥲）。python的第三方库疑似太多了……😓
 > 但是它们是真有用啊！🤣
 * 统计word文档词频输出到CSV文档中（还有一个合并功能但是没什么用）
